@@ -1,5 +1,5 @@
 # TestIngII
  <p>en el caso de tener instalado composer de manera local:</p>
-- clonar el repo y ejecutar: php composer.phar update <br/>
+<li>clonar el repo y ejecutar: php composer.phar update</li> <br/>
 <p>en el caso de tener instalado composer de forma global ejecutar:</p>
- - clonar el repo y ejecutar: composer update
+ <li>clonar el repo y ejecutar: composer update</li>
