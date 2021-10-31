@@ -1,0 +1,19 @@
+{
+    "name": "usuario/finaltesting",
+    "description": "engineering \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C challen\u001b[C\u001b[C\u001b[ge test engineering",
+    "autoload":{
+        "psr-4": {
+            "App\\":"app"
+        }   
+       }
+    ,
+    "authors": [
+        {
+            "name": "RenzoTorrente",
+            "email": "renzotor7@hotmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

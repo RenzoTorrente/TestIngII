@@ -1,0 +1,14 @@
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\php\pear\PHPUnit\TextUI\Command.php on line 277
+
+Warning: "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\xampp\php\pear\PHPUnit\TextUI\Command.php on line 285
+PHPUnit 3.7.21 by Sebastian Bergmann.
+
+Configuration read from C:\xampp\htdocs\finaltesting\phpunit.xml
+
+
+
+Time: 0 seconds, Memory: 4.00Mb
+
+[30;43m[2KNo tests executed!
+[0m[2K
